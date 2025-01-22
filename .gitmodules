@@ -1,3 +1,6 @@
 [submodule "vue/rippler"]
 	path = vue/rippler
 	url = https://github.com/Wei-Ba/demo.vue.rippler.git
+[submodule "vue/messagebox"]
+	path = vue/messagebox
+	url = https://github.com/Wei-Ba/demo.vue.messagebox.git
